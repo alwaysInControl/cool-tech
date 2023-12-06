@@ -1,1 +1,6 @@
 export * from './Navbar/Navbar'
+export * from './TopInfo/TopInfo'
+export * from './Item/Item'
+export * from './Popular/Popular'
+export * from './Offers/Offers'
+export * from './NewCollections/NewCollections'
